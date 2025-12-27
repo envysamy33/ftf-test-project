@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Educational Stock Watchlist</title>
+</head>
+<body>
+  <h1>Educational Stock Watchlist Platform</h1>
+  <p>This website provides delayed stock market data for educational and informational purposes only.</p>
+  <hr>
+  <p style="font-size:12px;">
+    Disclaimer: Prices are delayed by 15-20 minutes. This platform is for educational purposes only.
+  </p>
+</body>
+</html>
